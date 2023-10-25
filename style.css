@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+   
+
+
+}
+.navlists ul li {
+    display: inline;
+}
+.back{
+    background-image: url(https://landing.zytheme.com/cobuild/assets/images/hero/1.jpg);
+    height: 100vh;
+    width: 100vw;
+}
+
+.h2{
+    font-size: 80px !important;
+    color: white !important ;
+    padding-top: 15% !important;
+}
